@@ -8,9 +8,17 @@
 
 ## ✨ 精选
 
-<img src="2026-11/dafeiyu-2026-11-07-12.webp" width="260" alt="樱花树下招手">
-<img src="2026-11/dafeiyu-2026-11-07-05.webp" width="260" alt="草莓园">
-<img src="2026-11/dafeiyu-2026-11-07-09.webp" width="260" alt="秋日枫林">
+<img src="2026-11/dafeiyu-2026-11-07-12.webp" width="600" alt="樱花树下招手">
+
+*🌸 樱花树下招手*
+
+<img src="2026-11/dafeiyu-2026-11-07-05.webp" width="600" alt="草莓园">
+
+*🍓 草莓园*
+
+<img src="2026-11/dafeiyu-2026-11-07-09.webp" width="600" alt="秋日枫林">
+
+*🍁 秋日枫林*
 
 ## 🌸 最新
 
