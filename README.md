@@ -4,7 +4,7 @@
 
 *每天新画的大肥鱼，樱花、街道、山海，都是她的日常。*
 
-共 167 张（2026-11-07 – 2026-11-20），AI 生成。
+共 255 张（2026-11-07 – 2026-11-27），AI 生成。
 
 ## ✨ 精选
 
@@ -22,10 +22,7 @@
 
 ## 🌸 最新
 
-<img src="2026-11/dafeiyu-2026-11-20-05.webp" width="400" alt="苏州园林荡秋千">
-<img src="2026-11/dafeiyu-2026-11-20-06.webp" width="400" alt="时代广场挥手">
-<img src="2026-11/dafeiyu-2026-11-20-07.webp" width="400" alt="古镇提灯笼">
-<img src="2026-11/dafeiyu-2026-11-20-08.webp" width="400" alt="公园抱白饭碗">
+![四合院端白饭](https://raw.githubusercontent.com/dafeiyu-ai/dafeiyu-pictures/main/2026-11/dafeiyu-2026-11-27-05.webp) ![伦敦河边挥手](https://raw.githubusercontent.com/dafeiyu-ai/dafeiyu-pictures/main/2026-11/dafeiyu-2026-11-27-06.webp) ![苹果园摘苹果](https://raw.githubusercontent.com/dafeiyu-ai/dafeiyu-pictures/main/2026-11/dafeiyu-2026-11-27-07.webp) ![海滩落日听贝壳](https://raw.githubusercontent.com/dafeiyu-ai/dafeiyu-pictures/main/2026-11/dafeiyu-2026-11-27-08.webp)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:87CEEB&height=120&section=footer" />
 
